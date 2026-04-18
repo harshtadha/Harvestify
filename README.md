@@ -1,5 +1,5 @@
 # HARVESTIFY 🌿
-#### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
+#### A simple Data Sicence,ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
 
 
 
@@ -89,11 +89,6 @@ Note that, for now it only supports following crops
 ![demo](https://media.giphy.com/media/NnMwEp2tGZdfnJbyjr/giphy.gif)
 
 
-
-
-
-## Usage ⚙️
-You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report.
 
 ## Further Improvements 📈
 This was my first big project so there are lot of things to improve upon
